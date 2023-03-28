@@ -156,21 +156,4 @@ scripts/目录有相应的脚本可以调用
 
 > **多账号支持：** 将 项目复制多份，分别启动程序，用不同账号扫码登录即可实现同时运行。
 
-> **特殊指令：** 用户向机器人发送 **#清除记忆** 即可清空该用户的上下文记忆。
-
-
-### 3.Docker部署
-
-参考文档 [Docker部署](https://github.com/limccn/chatgpt-on-wechat/wiki/Docker%E9%83%A8%E7%BD%B2)   (Contributed by [limccn](https://github.com/limccn))。
-
-
-## 常见问题
-
-FAQs： <https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs>
-
-
-## 联系
-
-欢迎提交PR、Issues，以及Star支持一下。程序运行遇到问题优先查看 [常见问题列表](https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs) ，其次前往 [Issues](https://github.com/zhayujie/chatgpt-on-wechat/issues) 中搜索，若无相似问题可创建Issue，或加微信 eijuyahz 交流。
-
- 
+> **特殊指令：** 用户向机器人发送 **#清除记忆** 即可清空该用户的上下文
